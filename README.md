@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sabal19 Sabal Thapa. I am Computer Engineering student studying in IOE,Tribhuwan University.
-- 👀 I’m interested in programming and my field of interest is data science and full stack web developing.
+- 👀 I’m interested in programming and my field of interest is data science and full stack web development.
 - 🌱 I’m currently learning python for data science and data mining.
 - 💞️ I’m looking to collaborate on OCR , Machine learning and projects based on AI.
 - 📫 How to reach me :: sabalthapa2071@gmail.com
