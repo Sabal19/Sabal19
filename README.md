@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on OCR , Machine learning and projects based on AI.
 - I am also interested in backend development of web based applications.
 - I have knowledge of Django which is the web development framework of python.
-- 📫 How to reach me :: sabalthapa2071@gmail.com
+- 📫 Reach me :: sabalthapa2071@gmail.com
 
 <!---
 Sabal19/Sabal19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
